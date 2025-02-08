@@ -2,9 +2,9 @@
 Terminal app for ciphers
 
 ### Functionality
--Encoding
--Decoding
--Custom Alphabet Builder
++ Encoding
++ Decoding
++ Customisable Alphabet 
 
 ### Currently Supported Ciphers
 - ROT
