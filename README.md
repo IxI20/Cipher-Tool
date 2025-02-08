@@ -1,12 +1,12 @@
 # Cipher-Tool
 Terminal app for ciphers
 
-###Functionality
+### Functionality
 -Encoding
 -Decoding
 -Custom Alphabet Builder
 
-###Currently Supported Ciphers
+### Currently Supported Ciphers
 - ROT
 - Vigenere
 - XOR
